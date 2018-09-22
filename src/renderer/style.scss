@@ -1,0 +1,19 @@
+$background_clr: rgb(24, 24, 24);
+$text_clr: rgb(255, 255, 255);
+$text_secondary_clr: rgb(141, 141, 141);
+$primary_clr: rgb(30, 215, 96);
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: $text_clr;
+    background-color: $background_clr;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
